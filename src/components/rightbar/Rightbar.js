@@ -21,7 +21,9 @@ export default function Rightbar() {
                 className="rightbarProfileImg"
                 alt=""
               />
+              <span className="rightbarOnline"></span>
             </div>
+            <span className="rightbarUserName">Manisha Nigeria</span>
           </li>
         </ul>
       </div>

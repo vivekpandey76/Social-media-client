@@ -23,6 +23,9 @@
   margin-top: 15px;
   margin-bottom: 10px;
 }
+.rightbarTitle {
+  margin-bottom: 20px;
+}
 .rightbarFriendList {
   margin: 0;
   padding: 0;
@@ -42,4 +45,17 @@
   height: 40px;
   border-radius: 50%;
   object-fit: cover;
+}
+.rightbarOnline {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: rgb(34, 161, 34);
+  position: absolute;
+  top: -2px;
+  right: 0;
+  border: 2px solid white;
+}
+.rightbarUserName {
+  font-weight: 500;
 }
